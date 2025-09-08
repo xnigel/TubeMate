@@ -36,5 +36,13 @@ FFmpeg is a free and open-source software project that provides a vast suite of 
     Then add the `~\bin\` folder (containning `ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe`) add your WinOS PATH.
 
 ## Execute the program
-Download the *.exe file from https://github.com/xnigel/TubeMate/tree/main/dist
+If you are an end user, you do not need to know anything about programming, reading source code, or modifying the code.
+To use the program directly, you only need to do the following:
+1. Download the *.exe file from https://github.com/xnigel/TubeMate/tree/main/dist
+2. Place the TubeMate.exe to a local directory of your Win-PC
+3. Run it and enter the correct password
+4. Download your favorite Youtube music and save them locally.
+5. Enjoy your music.
+
+Thanks for using TubeMate.
 
