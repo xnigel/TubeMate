@@ -2,12 +2,9 @@
 
 
 ## Demo
-<img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%200.png" width =250> 
-<img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%201.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%202.png" width =250>
+<img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%200.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%201.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%202.png" width =250> 
 
-<img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%203.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%204.png" width =250>
-
-<img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%205.png" width =250>
+<img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%203.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%204.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%205.png" width =250>
 
 ## Description
 Creating this program is in order to let my child to listen some calm music during doing homework. Using this way, phones or Wi-Fi is not required. The old-school iPod can be used in this case.
