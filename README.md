@@ -36,5 +36,5 @@ FFmpeg is a free and open-source software project that provides a vast suite of 
     Then add the `~\bin\` folder (containning `ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe`) add your WinOS PATH.
 
 ## Execute the program
-Download the *.exe file from ()
+Download the *.exe file from https://github.com/xnigel/TubeMate/tree/main/dist
 
