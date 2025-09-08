@@ -34,7 +34,7 @@ class TubeMate:
         self.root = root
         ver = "01.01.00"
         yr = "2025.09.08"
-        self.root.title('TubeMate' + " (v" + ver +")" + " - " + yr + " - Nigel.Z")
+        self.root.title('TubeMate' + " (v" + ver +")" + " - " + yr)
         self.root.geometry("500x500")
         self.root.minsize(500, 600)
         self.root.maxsize(500, 600)
