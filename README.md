@@ -7,7 +7,7 @@
 <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%203.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%204.png" width =250> <img src="https://github.com/xnigel/TubeMate/blob/main/demo/TubeMate_v01.01.00%20demo%205.png" width =250>
 
 ## Description
-Creating this program is in order to let my child to listen some calm music during doing homework. Using this way, phones or Wi-Fi is not required. The old-school iPod can be used in this case.
+I created this app so my kids can listen to some relaxing music while doing homework or taking a walk outdoors. By converting the music locally, they don't need to rely on streaming, cell phones, or Wi-Fi. In this case, an old mp3 player or iPod comes in handy.
 
 ## Requirement
 This program relies on a couple of libraries and plug-ins
